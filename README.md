@@ -26,7 +26,7 @@
 
 ## 📸 Preview
 
-![Movie Mingle Preview](./screenshot.png) <!-- Optional: Add your actual screenshot file in repo -->
+![Movie Mingle Preview](./screenshot.png) 
 
 ---
 
