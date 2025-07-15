@@ -20,6 +20,12 @@ def set_background(image_path):
             background-repeat: no-repeat;
             background-attachment: fixed;
         }}
+        @media only screen and (max-width: 768px) {{
+            .stApp {{
+                background-size: cover;
+                background-position: top center;
+            }}
+        }}
         </style>
     """, unsafe_allow_html=True)
 
