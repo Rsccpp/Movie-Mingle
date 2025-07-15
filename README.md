@@ -26,7 +26,7 @@
 
 ## 📸 Preview
 
-![Movie Mingle Preview](./screenshot.png) 
+![Movie Mingle Preview](./Screenshot.png) 
 
 ---
 
