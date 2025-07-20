@@ -34,4 +34,3 @@ def get_recommendations(title, num_recommendations=5):
     rec_indices = indices.flatten()[1:]  # Skip the movie itself
     recommendations = df['title'].iloc[rec_indices].tolist()
     return recommendations
-
