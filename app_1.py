@@ -115,8 +115,6 @@ st.markdown("""
 
     </div>
     
-   
-    
 """, unsafe_allow_html=True)
 
 # --- Main App UI ---
@@ -145,4 +143,3 @@ with st.container():
             st.markdown(f"<div class='recommendation'>{i}. {rec}</div>", unsafe_allow_html=True)
 
     st.markdown('</div>', unsafe_allow_html=True)
-
