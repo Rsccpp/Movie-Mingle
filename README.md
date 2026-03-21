@@ -32,6 +32,7 @@
 
 ## 📦 Setup Locally
 
+
 ```bash
 git clone https://github.com/YourUsername/Movie-Mingle.git
 cd Movie-Mingle
